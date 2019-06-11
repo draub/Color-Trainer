@@ -1,0 +1,24 @@
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.exe.config
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.exe
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.pdb
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.xml
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.vbprojAssemblyReference.cache
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color_Trainer_WF.Resources.resources
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.vbproj.GenerateResource.cache
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.vbproj.CoreCompileInputs.cache
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.exe
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.xml
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.pdb
+C:\Users\Danr\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color_Trainer_WF.frmColorTrainer.resources
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.exe.config
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.exe
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.pdb
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\bin\Debug\Color Trainer WF.xml
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.vbprojAssemblyReference.cache
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color_Trainer_WF.frmColorTrainer.resources
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color_Trainer_WF.Resources.resources
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.vbproj.GenerateResource.cache
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.vbproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.exe
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.xml
+C:\Users\Dan\source\repos\Color Trainer WF\Color Trainer WF\obj\Debug\Color Trainer WF.pdb
